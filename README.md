@@ -1,0 +1,2 @@
+# NicaGrow
+NicaGrow es una aplicación diseñada para apoyar a los emprendedores locales de Nicaragua en la gestión de sus negocios. La API ofrece los servicios necesarios para el registro de usuarios, administración de productos, gestión de ventas y comunicación entre compradores y vendedores.
